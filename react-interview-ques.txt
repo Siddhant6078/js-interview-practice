@@ -1,0 +1,59 @@
+🔹 Core React Fundamentals (Q1–5)
+These cover the basics every React engineer must know:
+
+Display dynamic HTML data in React
+Send data from parent → child component
+Call a parent method from a child component
+Access a DOM element in React (refs)
+Bind an array/array of objects to a dropdown
+💡 Hint: Expect to use props, refs, and array mapping frequently here.
+
+🔹 Rendering & State Management (Q6–13)
+Create a lazy-loaded component
+Display user input in another textbox
+Loop through arrays/objects in React
+Conditionally render element/text
+Change styles dynamically based on conditions
+Show/hide elements with conditional rendering
+Bind array/objects to radio buttons
+Display selected radio value in a textbox
+💡 Hint: Employers check your fluency with map(), useState, and conditional rendering patterns.
+
+🔹 Lifecycle & Re-rendering (Q14–19)
+Call a method when the component first renders
+Display keys/values of an object in a loop
+Re-render component on value change
+Call a method on every re-render
+Add data to a useState array
+Build a search filter textbox
+💡 Hint: Understand useEffect, key props, and state immutability.
+
+🔹 Hooks in Action (Q20–27)
+Counter using useState
+Counter using useReducer
+Enable/disable textbox from a parent button
+Implement debouncing in React
+Fetch data from an API (custom component)
+Force re-render without using useState
+Call a method immediately after a state update
+Show a remaining character counter in a textarea using useRef
+💡 Hint: React hooks are the heart of L1/L2 interviews — expect questions on useState, useEffect, useReducer, and useRef.
+
+🔹 Advanced React Scenarios (Q28–39)
+Implement dependent dropdowns (Country → State)
+Add type checking with prop-types
+Share data across components with Context API
+Optimize performance with useMemo
+Optimize callbacks with useCallback
+Create an Error Boundary
+Show dropdown value in a textbox
+Create a Pure Component
+Explain Controlled vs Uncontrolled components
+Build a custom React hook
+Create a popup using React Portal
+Compare lifecycle methods in class components vs useEffect
+💡 Hint: These scenarios test your understanding of optimization, patterns, and system design in React.
+
+🔹 Scaling React Apps (Q40–41)
+Build a pagination component
+Safeguard a React application (security best practices)
